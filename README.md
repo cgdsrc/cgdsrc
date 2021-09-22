@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cgdsrc
 - 👀 I’m interested in React and frontend technologies
-- 🌱 I’m currently learning React Native, Flutter 
+- 🌱 I’m currently learning Tailwind, React Native, Flutter
 
 <!---
 cgdsrc/cgdsrc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
