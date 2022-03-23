@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cgdsrc
-- 👀 I’m interested in React and frontend technologies
+- 👀 I’m interested in React and .NetCore
 - 🌱 I’m currently learning Tailwind, React Native, Flutter
 
 <!---
