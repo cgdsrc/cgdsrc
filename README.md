@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cgdsrc
-- 👀 I’m interested in React and .NetCore
-- 🌱 I’m currently learning Tailwind, React Native, Flutter
+- 👀 I’m interested in React, Angular and .NetCore
+- 🌱 I’m currently learning about React Native
 
 <!---
 cgdsrc/cgdsrc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
