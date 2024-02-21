@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cgdsrc
+- 👋 Hi, I’m Çağdaş
 - 👀 I’m interested in React, Angular and .NetCore
 - 🌱 I’m currently learning about React Native
 
